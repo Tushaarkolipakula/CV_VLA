@@ -1,0 +1,41 @@
+{
+  "code_sha256": {
+    "pi05_pipeline/data.py": "76ca3a54adc3a4180d21dfb3af687742d3aa46cc60d2de525a6923c0b3db453c",
+    "pi05_pipeline/train.py": "2ef949f10ce33cb7a31180f6670c91c76278ecae2b2e5c23125c05ee2d403909",
+    "pi05_pipeline/status.py": "3677d3eacd400bcd73e2c55668ae64af4e5892ff8ef63b40e6ec9649d594e952",
+    "pi05_pipeline/audit_data.py": "1385d625d681cf474040446df6e553f4ba4225f5910669b4348df468842cf963",
+    "pi05_pipeline/sim_worker.py": "14a5da529f66e30007687e6e1c0a4e70597df6aa1012b455112573b7041a8b9d",
+    "pi05_pipeline/run_experiment.py": "c17c3743bfee16639838419e48cbdf7fb9ba02f76be27590b596744cca3ee228",
+    "pi05_pipeline/generate_all.py": "b95e4f24eb8a8d85c99822329114ae51284c9bf45e0aa8e14c4d171514d179a1",
+    "pi05_pipeline/check_adapter.py": "6790efc88e2967d5baf6d2e60d53b91fb0ece9d13be423c239653c9810a323eb",
+    "pi05_pipeline/evaluate.py": "1bb26de24456cf94c997804326e781e04ad949e399ca828be89b659e50dfaa8a",
+    "pi05_pipeline/initial_data.py": "7e67f718c27e7f35ea42281038abef53a298af9ed0499e368c70becadba1075f",
+    "pi05_pipeline/model.py": "01bac8fce5e62f823b7cea2e9057897ab38ebcba935c693e6e70249cf2ecb727",
+    "smolvla_pipeline/model.py": "76f4a2318ce9bb253cde8ad1271aa25bd111b92b801ce89db7d90d5b3a236706",
+    "smolvla_pipeline/generate.py": "a9f88caba21b51650ddf963a93c5d39528611a2872c593fb3a0771ba696905a2",
+    "training/common.py": "66fcec162ef73140a06083489350e30a71c7ebb69291e6832e2e3397e4b8cdaf",
+    "augmentation/generate_curriculum_dataset.py": "e68fcd4aa1a4d008f7699430d5d1f209c6645ec2d45d8df0bb7d08a13f6187aa"
+  },
+  "versions": {
+    "torch": "2.6.0+cu118",
+    "transformers": "4.53.3",
+    "lerobot": "0.4.4",
+    "peft": "0.17.1",
+    "safetensors": "0.8.0",
+    "tokenizers": "0.21.4",
+    "numpy": "2.2.6",
+    "h5py": "3.16.0",
+    "sentencepiece": "0.2.2",
+    "scipy": "1.14.1"
+  },
+  "commits": {
+    "lerobot": "8fff0fde7c79f23a93d845d1a50e985de01f8b8a",
+    "libero": "8f1084e3132a39270c3a13ebe37270a43ece2a01",
+    "libero_plus": "4976dc30028e805ff8094b55501d532c48fec182"
+  },
+  "base": {
+    "path": "/home/tushaar/.cache/huggingface/hub/models--lerobot--pi05_base/snapshots/22c30e5b34f9e7ab738b1b34fc2fc5ecfe2d28f0/model.safetensors",
+    "bytes": 14467165872,
+    "sha256": "0eb11ca9587678c1d2ef8cf32807c29f8ce53a2bfdfc1aa4a4c96f16fca59b0f"
+  }
+}

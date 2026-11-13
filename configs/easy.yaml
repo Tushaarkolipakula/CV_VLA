@@ -1,0 +1,13 @@
+total_epochs: 20
+initial_mag: 0.05
+final_mag: 0.2
+schedule: linear
+t_min: 5
+t_max: 25
+num_augmentations: 2
+random_seed: 7
+enable_curriculum: true
+dataset_dir: data/LIBERO-datasets-augmented/libero_goal
+checkpoint_dir: checkpoints/easy
+batch_size: 16
+learning_rate: 0.0001
